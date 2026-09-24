@@ -1,13 +1,7 @@
 # TrafficModeling
 Probability and Statistical Modeling of Web Traffic
 
-
-
 --> python run main.py
-
-
-
-
 
 Probability and Statistical Modeling of Web Traffic 1
 Assignment: Probability and Statistical
