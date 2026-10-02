@@ -20,3 +20,4 @@
 
 * We treat the observed proportions as probabilities, which assumes that each requests are independent.<br> In reality, requests from the same page visit are clustered, so these are estimates from one day of data.
 
+---
